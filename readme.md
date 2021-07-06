@@ -13,7 +13,7 @@ An easy to use and feature rich base for discord.js v12 bots.
  - [x] Permissions for running commands
  - [x] Premade dynamic help command
  - [x] Premade disable command for disabling commands for only a guild
- - [x] Premade prefix command for prefix command
+ - [x] Premade prefix command for changing the prefix for only a guild
  - [x] Premade eval command
  - [x] Custom status
  - [x] Some premade utils
